@@ -19,7 +19,5 @@ const sumAll = function(startN, endN) {
     return sum;
 };
 
-let x = sumAll(1,3);
-
 // Do not edit below this line
 module.exports = sumAll;
